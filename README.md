@@ -1,2 +1,5 @@
-# learnopengl_hellocordinatesystem_4_1
-test Coordinate Systems in OpenGL, try to add model matrix, view matrix and projection matrix to init the position of the triangles
+# learnopengl_hellocordinatesystem_4_2
+test cube with depth test, based on practice 4_1
+
+example:
+![image](https://github.com/mrshen/learnopengl_hellocordinatesystem_4_2/raw/master/res_images/example.gif)
